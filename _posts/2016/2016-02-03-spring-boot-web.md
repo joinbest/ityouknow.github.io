@@ -20,7 +20,7 @@ Spring Boot Web 开发非常的简单，其中包括常用的 json 输出、filt
  > 1. 添加 jackjson 等相关 jar 包
  > 2. 配置 Spring Controller 扫描
  > 3. 对接的方法添加 @ResponseBody
- 
+
 就这样我们会经常由于配置错误，导致406错误等等，Spring Boot 如何做呢，只需要类添加 `@RestController` 即可，默认类中的方法都会以 json 的格式返回
 
 ``` java
@@ -377,7 +377,7 @@ WebJars 是将客户端（浏览器）资源（JavaScript，Css等）打成 Jar 
     <artifactId>vue</artifactId>
     <version>2.5.16</version>
 </dependency>
-``` 
+```
 
 2、页面引入
 
