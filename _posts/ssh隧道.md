@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Spring Boot(二)：Web 综合开发
-copyright: java
-category: springboot
+title: 理解下所谓的ssh隧道
+copyright: Linux
+category: ssh
 tags: [springboot]
-
 ---
-
-理解下所谓的ssh隧道
 
 [TOC]
 
